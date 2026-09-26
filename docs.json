@@ -31,7 +31,8 @@
           "facturacion-electronica",
           "datagree",
           "contacto-y-atencion",
-          "certificados-ssl"
+          "certificados-ssl",
+          "test"
         ]
       }
     ],
@@ -85,5 +86,12 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
-  }
+  },
+  "redirects": [
+    {
+      "source": "",
+      "destination": "/SD_MD",
+      "permanent": true
+    }
+  ]
 }
