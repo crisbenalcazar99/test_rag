@@ -1,0 +1,24 @@
+---
+titulo: "Biometría - SecurityScan Biometrics"
+categoria: biometria
+fuentes:
+  - https://www.securitydata.net.ec/biometria-ec/
+---
+
+# SecurityScan Biometrics
+
+## Qué es y cómo funciona SecurityScan Biometrics
+
+SecurityScan Biometrics es el servicio de reconocimiento facial de Security Data para autenticar la identidad de las personas mediante biometría facial.
+
+- **Biometría pasiva:** autentica la identidad sin que el usuario tenga que realizar ninguna acción. Compara la foto original de la persona con una selfie, y la validación se realiza en el servidor.
+- **Infraestructura:** opera en centros de datos certificados TIER 3 y TIER 4, lo que garantiza alta disponibilidad y tolerancia a fallos.
+
+## Beneficios de SecurityScan Biometrics
+
+- **Seguridad:** la biometría facial es un método de autenticación altamente seguro que reduce el riesgo de fraude.
+- **Eficiencia operativa:** automatiza la identificación y verificación de personas, lo que reduce los tiempos de espera.
+- **Experiencia del usuario:** elimina la necesidad de recordar contraseñas o llevar identificaciones físicas.
+- **Cumplimiento normativo:** ayuda a la empresa a cumplir las regulaciones de privacidad y seguridad de datos.
+- **Personalización:** permite personalizar servicios a partir de una identificación precisa, lo que mejora la satisfacción y la lealtad del cliente.
+- **Reducción de costos:** automatiza procesos manuales y reduce los riesgos de la autenticación tradicional.

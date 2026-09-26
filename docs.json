@@ -18,7 +18,17 @@
         ]
       },
       "certificados-ssl",
-      "contacto-y-atencion"
+      "contacto-y-atencion",
+      "datagree",
+      "facturacion-electronica",
+      "firma-electronica",
+      "formas-de-pago",
+      "nosotros",
+      "poliza-electronica",
+      "biometria",
+      "programas-para-clientes",
+      "security-contrato",
+      "sellado-de-tiempo"
     ],
     "global": {
       "anchors": [
