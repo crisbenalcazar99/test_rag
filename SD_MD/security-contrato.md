@@ -7,7 +7,8 @@ fuentes:
 
 # Security Contrato
 
-## Descripción del Servicio
+## Descripción del Servicio Security Contrato
+
 Servicio que permite la gestión digital de los instrumentos legales que una entidad requiere para la firma de clientes y/o proveedores. Pueden ser contratos de todo tipo: compra-venta, crédito, afiliaciones, inscripciones, etc. Pueden incluir documentos complementarios como pagarés, tablas de amortización, entre otros.
 
 ## Validez Legal
