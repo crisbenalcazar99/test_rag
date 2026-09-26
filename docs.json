@@ -16,7 +16,8 @@
           "index",
           "quickstart"
         ]
-      }
+      },
+      "certificados-ssl"
     ],
     "global": {
       "anchors": [
