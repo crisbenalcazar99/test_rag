@@ -17,18 +17,23 @@
           "quickstart"
         ]
       },
-      "certificados-ssl",
-      "contacto-y-atencion",
-      "datagree",
-      "facturacion-electronica",
-      "firma-electronica",
-      "formas-de-pago",
-      "nosotros",
-      "poliza-electronica",
-      "biometria",
-      "programas-para-clientes",
-      "security-contrato",
-      "sellado-de-tiempo"
+      {
+        "group": "SD",
+        "pages": [
+          "sellado-de-tiempo",
+          "security-contrato",
+          "programas-para-clientes",
+          "biometria",
+          "poliza-electronica",
+          "nosotros",
+          "formas-de-pago",
+          "firma-electronica",
+          "facturacion-electronica",
+          "datagree",
+          "contacto-y-atencion",
+          "certificados-ssl"
+        ]
+      }
     ],
     "global": {
       "anchors": [
