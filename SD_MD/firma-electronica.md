@@ -39,7 +39,7 @@ La firma electrónica de persona natural es un certificado digital emitido a nom
 - Firmar escritos, solicitudes y documentos de procesos administrativos o judiciales admitidos por medios electrónicos, como en el Consejo de la Judicatura.
 - Firmar documentos en REVIT Defunciones (firma asociada a cédula, en formato archivo o token).
 - Emitir facturas y comprobantes electrónicos y realizar trámites tributarios ante el SRI, cuando la firma está asociada a un RUC activo. Requiere una firma con vigencia de 1 año o más.
-- Recuperar el acceso (contraseña) a la plataforma del SRI.
+- Recuperar y/o Generar el acceso (contraseña) a la plataforma del SRI.
 - Trámites de Aduana, SENAE, ECUAPASS, importación y exportación (normalmente requiere firma asociada a RUC, en formato archivo o token). Requiere una firma con vigencia de 1 año o más.
 - Trámites en la Ventanilla Única Ecuatoriana (VUE): registro sanitario, trámites ante MIPRO y certificados de origen, según el tipo de solicitud. Requiere una firma con vigencia de 1 año o más.
 - Importación de vehículos con carné del CONADIS (firma asociada a cédula, en formato archivo o token). Si el beneficiario es menor de edad, la firma la solicita su representante legal.
@@ -403,4 +403,3 @@ Proceso gratuito:
 1. Hacer clic en el enlace de recuperación.
 2. Ingresar número de cédula y correo registrado.
 3. Recibir enlace de restablecimiento en el correo.
-
