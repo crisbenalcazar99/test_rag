@@ -20,19 +20,18 @@
       {
         "group": "SD",
         "pages": [
-          "sellado-de-tiempo",
-          "security-contrato",
-          "programas-para-clientes",
+          "SD_MD/sellado-de-tiempo",
+          "SD_MD/security-contrato",
+          "SD_MD/programas-para-clientes",
           "SD_MD/biometria",
-          "poliza-electronica",
-          "nosotros",
-          "formas-de-pago",
-          "firma-electronica",
-          "facturacion-electronica",
-          "datagree",
-          "contacto-y-atencion",
-          "certificados-ssl",
-          "test"
+          "SD_MD/poliza-electronica",
+          "SD_MD/nosotros",
+          "SD_MD/formas-de-pago",
+          "SD_MD/firma-electronica",
+          "SD_MD/facturacion-electronica",
+          "SD_MD/datagree",
+          "SD_MD/contacto-y-atencion",
+          "SD_MD/certificados-ssl"
         ]
       }
     ],
