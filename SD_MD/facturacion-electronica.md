@@ -13,6 +13,9 @@ Este sistema simplifica enormemente los procesos al permitirte emitir facturas o
 ## Planes de Facturación Electrónica
 
 ### Plan Pro Ilimitado
+
+El precio para el sistema de Facturacion,  unico plan, es el siguiente:
+
 **$47,15 + Incluido IVA / año** (promoción por tiempo limitado). Vigencia: 1 año.
 
 Incluye:

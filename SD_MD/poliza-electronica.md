@@ -36,6 +36,11 @@ Servicio de póliza electrónica, bajo la modalidad ASP (Application Service Pro
 Todas las partes involucradas (aseguradora, broker y asegurados) pueden revisar sus pólizas de manera segura. Se envían notificaciones automáticas por correo cuando las pólizas son rechazadas.
 
 ## Precios
+
+Los precios por el firmado y almacenamiento de documentos relacionados con polizas  son:
+
 - Sin almacenamiento: $2.55 por transacción.
 - Con almacenamiento: $3.75 por transacción.
 - Instalación: según levantamiento de proceso.
+
+Estos precios incluyen la generacion y estampado del certificado digital(Firma electronica) y el almacenamiento del documento
