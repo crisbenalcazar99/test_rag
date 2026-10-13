@@ -403,3 +403,17 @@ Proceso gratuito:
 1. Hacer clic en el enlace de recuperación.
 2. Ingresar número de cédula y correo registrado.
 3. Recibir enlace de restablecimiento en el correo.
+
+## Precios de la Firma Electronica por Primera vez
+
+Los siguientes precios son validos para firmas electronicas por primera vez para personas naturales, miembros de empresa y representantes legales. Sobre estos precios en funcion del caso se da un descuento de hasta el 20% para renovaciones
+
+| Vigencia | Solo firma (archivo) | Firma + Token |
+| --- | --: | --: |
+| 1 semana | \$5.15 | — |
+| 1 mes | \$12.10 | — |
+| 1 año | \$24.15 | \$37.95 |
+| 2 años ⭐ | \$36.57 | \$50.37 |
+| 3 años | \$51.22 | \$65.02 |
+| 4 años | \$63.64 | \$77.44 |
+| 5 años | \$74.41 | \$88.21 |
